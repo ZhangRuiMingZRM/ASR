@@ -47,13 +47,13 @@ class AsrApi
     * AccessKeyId
     * @var string
     */
-    protected $accessKeyId = "LTAI1znjajDhdNui";
+    protected $accessKeyId = "";
 
     /*
     * AccessKeySecret
     * @var string
     */
-    protected $accessKeySecret = "fWwy6aNhahSrlmHbXBLAw8QrnGWKjj";
+    protected $accessKeySecret = "";
 
     protected $method = "POST";
 
